@@ -17,6 +17,7 @@ public class Progetto {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("sono bello");
+        System.out.println("renato");
     }
     
 }
